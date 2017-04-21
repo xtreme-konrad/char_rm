@@ -1,5 +1,6 @@
 # Ensure you esacpe you characters on input
 # ie. \$ \& \% 
+# for question mark use \\\?
 # for backslash use \\\\
 # for forward slash use \:
 
